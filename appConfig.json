@@ -1,0 +1,7 @@
+{
+    "oAuthConsumerKey" :"",
+	"oAuthConsumerSecret": "",
+	"oAuthAccessToken":"",
+	"oAuthAccessTokenSecret" : "",
+    "tweetLimit" : 200
+}
