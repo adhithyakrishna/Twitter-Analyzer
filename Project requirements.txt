@@ -1,0 +1,31 @@
+Min tweets/POI= 1000
+
+Min tweets for 15 POIs = 15000
+
+Min 20 replies for each tweet of each POI = 15000 * 20 = 300000
+
+Min 1000 tweets containing hashtags/keywords related to each POI = 15000
+
+Total = 300000 + 15000 = 315000
+
+ 
+
+Per country and per language requirement should automatically be fulfilled when you have chosen 5 POI from each country and they are tweeting in their respective languages. Having said that, we encourage you to keep as much buffer as possible
+
+
+We are specifically interested in political tweets from the following types of persons of interest
+(POI):
+● Politicians
+● Journalists
+● Social Activists
+And the following countries:
+● USA
+● India
+● Brazil
+Your dataset should be multilingual and contain following languages
+● English
+● Hindi
+● Portuguese
+
+
+
